@@ -9,4 +9,6 @@ Utilize this Bash script to efficiently download multiple models to your workpla
 
 This script offers a limited selection of model examples; please feel free to customize it according to your requirements.
 
-reference: https://huggingface.co/models 
+reference: 
+- https://huggingface.co/models 
+- https://medium.com/@irene-zhou/download-huggingface-models-b1a196f83c65
